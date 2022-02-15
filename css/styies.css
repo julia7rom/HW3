@@ -267,10 +267,10 @@ letter-spacing: 0.03em;
 color: #757575;
 margin-bottom: 20px;
 }
+
+.main-li:not(:nth-child(n+7)){
+  margin-bottom: 30px;
+}
 .main-li:not(:nth-child(3n+0)){
   margin-right: 30px;
-}
-.main-li:not(:nth-child(n+6))
-{
-  margin-bottom: 30px;
 }
