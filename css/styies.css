@@ -164,10 +164,9 @@ align-items: center;}
 .team-li:not(:last-child){
   margin-right: 30px;
 }
-.team-li img {
-  margin-bottom: 30px;
+.team-li {
 }
-.team h3 {
+.name  {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.19;
@@ -176,16 +175,17 @@ letter-spacing: 0.03em;
 color: #212121;
 margin-bottom: 10px;
 }
-.team p {
+.profession {
 font-weight: normal;
 font-size: 16px;
 line-height: 1.18;
 text-align: center;
 letter-spacing: 0.03em;
 color:#757575;
-margin-bottom: 30px;
 }
-
+.team-h-p{
+  padding: 30px;
+}
 /* подвал */
 
 .footer-studio {color: #FFFFFF;}
@@ -252,7 +252,6 @@ font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
 color: #212121;
-margin-top: 20px;
 margin-bottom: 4px;
 }
 .main {
@@ -265,7 +264,6 @@ font-size: 16px;
 line-height: 1.88;
 letter-spacing: 0.03em;
 color: #757575;
-margin-bottom: 20px;
 }
 
 .main-li:not(:nth-child(n+7)){
