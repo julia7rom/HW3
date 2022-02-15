@@ -274,3 +274,6 @@ margin-bottom: 20px;
 .main-li:not(:nth-child(3n+0)){
   margin-right: 30px;
 }
+.main-h-p{
+  padding: 20px 24px;
+  border: 1px solid #EEEEEE}
