@@ -220,7 +220,8 @@ padding-bottom: 60px;}
 .li-button-portfolio :hover,
 .button-portfolio  :focus {
   background-color:#2196F3;
-  color: #FFFFFF;
+  color: var(--light-text-color)
+  background-color: var(--accept-color);
 }
 .button-portfolio-ul {
 display: flex;
