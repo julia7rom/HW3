@@ -33,7 +33,7 @@ button {border:none ;}
   background: #FFFFFF;
   padding-top: 24px;
   padding-bottom: 25px;
-  border: 1px solid #ECECEC
+  border-bottom: 1px solid #ECECEC;
 }
 .logo {font-family: 'Raleway', sans-serif;
 font-weight: bold;
